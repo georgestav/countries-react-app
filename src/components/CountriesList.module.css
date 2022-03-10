@@ -1,0 +1,22 @@
+.image {
+	width: 15rem;
+	height: 8rem;
+}
+
+.description {
+	padding: 1rem;
+}
+
+.description a {
+	border: 1px solid rgb(19, 19, 19);
+	padding: 0.5rem;
+	color: rgb(19, 19, 19);
+	text-decoration: none;
+	transition: all ease-in-out 0.3s;
+}
+
+.description a:hover {
+	color: rgb(82, 82, 82);
+	border: 1px solid rgb(82, 82, 82);
+	background-color: orangered;
+}
